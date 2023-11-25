@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923455116994', '*~_.メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ._~*', true],
-  ['923455116994', '*~_. SHANI_RAJOUT🤥🍭メ★_~*', true], 
+  ['923455116994', '*Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*', true],
+  ['923455116994', '*Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*', true], 
   [''] 
 ] //Number of owners
 
@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ *~_.メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ._~*-ʙᴏᴛ'
+global.botname = 'Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = '✤᮫⤹⏤ₒ᮫ᷤ₃᮫ͪ₄᮫ͣ₅᮫ᷠ₌᮫ͥ₅᮫₁᮫ᷢ₁᮫ͣ₆᮫ᷬ₉᮫ⷬ₉᮫ⷰ₄ⷮ⏤⤸✤' 
 global.author = '.' 
-global.menuvid = 'https://i.imgur.com/XOvvvpP.mp4'
+global.menuvid = 'https://i.imgur.com/D7POekk.jpg'
 global.igfg = 'https://wa.me/message/65LQF2X2ISI3F1' 
 global.dygp = 'https://chat.whatsapp.com/Esn7W3azds7EWBtJcn16Zt'
 global.fgsc = 'https://github.com/Dangerous1332/GURU-BOT/edit/main/config.js' 
