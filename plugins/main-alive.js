@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 
     // Sound
     let name = m.pushName || conn.getName(m.sender)
-    var vn = "https://raw.githubusercontent.com/Kai0071/A17/master/Assets/audio/🔥.mp3"
+    var vn = "https://i.imgur.com/D7POekk.jpg"
     let url = "https://github.com/Guru322/GURU-BOT"
     let murl = "https://youtu.be/DibiLc17dh0?si=xp9bQ-_frEyDB1-i"
     let img = "https://cdn.wallpapersafari.com/71/19/7ZfcpT.png"
@@ -21,10 +21,20 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "I AM ALIVE",
+          title: ""- 🧸🐬 
+
+🏴‍☠️;
+
+واسطہ پڑے تو نسلوں کا پتہ چلتا ہے باتوں سے ہر شخص خاندانی ہوتا ہے
+
+                            <💸—
+
+             "*- sOme Wars yOu HavE tO FīīghT AlOne "- *🌻🖤💫 °^_))*
+              
+              *Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*",
           body: "GURU BOT",
           thumbnailUrl: img,
-          sourceUrl: 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp',
+          sourceUrl: 'https://chat.whatsapp.com/Esn7W3azds7EWBtJcn16Zt',
           mediaType: 1,
           renderLargerThumbnail: true
           }}
