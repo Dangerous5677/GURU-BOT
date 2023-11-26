@@ -8,8 +8,8 @@ import axios from 'axios'
 
 global.owner = [
   ['923455116994', '*Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*', true],
-  ['923455116994', '*Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*', true], 
-  [''] 
+  ['923001897192', '*Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*', true], 
+  ['923177009359', '*Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ*', true] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -54,7 +54,7 @@ global.botname = 'Ξ_メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ_Ξ-ʙ�
 global.premium = 'true'
 global.packname = '✤᮫⤹⏤ₒ᮫ᷤ₃᮫ͪ₄᮫ͣ₅᮫ᷠ₌᮫ͥ₅᮫₁᮫ᷢ₁᮫ͣ₆᮫ᷬ₉᮫ⷬ₉᮫ⷰ₄ⷮ⏤⤸✤' 
 global.author = '.' 
-global.menuvid = 'https://i.imgur.com/D7POekk.jpg'
+global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = 'https://wa.me/message/65LQF2X2ISI3F1' 
 global.dygp = 'https://chat.whatsapp.com/Esn7W3azds7EWBtJcn16Zt'
 global.fgsc = 'https://github.com/Dangerous1332/GURU-BOT/edit/main/config.js' 
