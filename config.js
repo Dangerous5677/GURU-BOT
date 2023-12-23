@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923455116994', ''ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑', true],
-  ['923455116994', ''ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑', true], 
+  ['923455116994', 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑', true],
+  ['923455116994', 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑', true], 
   [''] 
 ] //Number of owners
 
@@ -52,12 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '*᚜ု᪳𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⁹⁹͢⁴ှ᪳᚛*'
 global.premium = 'true'
-global.packname = ''ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑
-
-             👀🙈'³ı̄ı̄†s ─🫨🩷
-‹‹᪲• ː✮᚜ု᪳𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⁹⁹⁴ှ᪳᚛✮ː •››᪲
-
-🩷️🩵⎯⎯→🐼' 
+global.packname = 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-'
 global.author = '@' 
 global.menuvid = 'https://i.imgur.com/8G8QxUy.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
