@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923455116994', '*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*', true],
-  ['923001897192', '*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*', true], 
-  ['', '', false] 
+  ['917605902011', 'GURU', true],
+  ['6281255369012', 'Ash', true], 
+  [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -27,45 +27,40 @@ global.lolkeysapi = ['GataDios']
 
 global.APIs = { // API Prefix
   // name: 'https://website'
-  xteam: 'https://i.imgur.com/sjNolYH.jpg', 
-  dzx: 'https://i.imgur.com/sjNolYH.jpg',
-  lol: 'https://i.imgur.com/sjNolYH.jpg',
-  violetics: 'https://i.imgur.com/sjNolYH.jpg',
-  neoxr: 'https://i.imgur.com/sjNolYH.jpg',
-  zenzapis: 'https://i.imgur.com/sjNolYH.jpg',
-  akuari: 'https://i.imgur.com/sjNolYH.jpg',
-  akuari2: 'https://i.imgur.com/sjNolYH.jpg',
-  nrtm: 'https://i.imgur.com/sjNolYH.jpg',
-  bg: 'https://i.imgur.com/sjNolYH.jpg',
-  fgmods: 'https://i.imgur.com/sjNolYH.jpg'
+  xteam: 'https://api.xteam.xyz', 
+  dzx: 'https://api.dhamzxploit.my.id',
+  lol: 'https://api.lolhuman.xyz',
+  violetics: 'https://violetics.pw',
+  neoxr: 'https://api.neoxr.my.id',
+  zenzapis: 'https://zenzapis.xyz',
+  akuari: 'https://api.akuari.my.id',
+  akuari2: 'https://apimu.my.id',
+  nrtm: 'https://fg-nrtm.ddns.net',
+  bg: 'http://bochil.ddns.net',
+  fgmods: 'https://api-fgmods.ddns.net'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://i.imgur.com/sjNolYH.jpg': 'd90a9e986e18778b',
-  'https://i.imgur.com/sjNolYH.jpg': '85faf717d0545d14074659ad',
-  'https://i.imgur.com/sjNolYH.jpg': `${keysneoxr}`,	
-  'https://i.imgur.com/sjNolYH.jpg': 'beta',
-  'https://i.imgur.com/sjNolYH.jpg': `${keysxxx}`, 
-  'https://i.imgur.com/sjNolYH.jpg': 'fg-dylux'
+  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
+  'https://api.neoxr.my.id': `${keysneoxr}`,	
+  'https://violetics.pw': 'beta',
+  'https://zenzapis.xyz': `${keysxxx}`, 
+  'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
 // Sticker WM
-global.botname = '[THE_SHANI⁹⁹⁴_MD]'
+global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = ''ꜛ-🫂❤‍🩹🍂🌼-↑
-
-                👀🙈'³ı̄ı̄†s ─🫨🩷 —
-         ✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮ ː •››̈̈️
-
-🩷️🩵⎯⎯→🐼' 
-global.author = '.' 
-global.menuvid = 'https://i.imgur.com/E1uSBln.mp4'
-global.igfg = 'https://wa.me/message/65LQF2X2ISI3F1' 
-global.dygp = 'https://chat.whatsapp.com/Esn7W3azds7EWBtJcn16Zt'
-global.fgsc = 'https://github.com/Dangerous1332/GURU-BOT/edit/main/config.js' 
-global.fgyt = 'https://wa.me/message/65LQF2X2ISI3F1'
-global.fgpyp = 'https://wa.me/message/65LQF2X2ISI3F1'
-global.fglog = 'https://github.com/Dangerous1332/GURU-BOT/edit/main/config.js' 
+global.packname = 'GURU┃ᴮᴼᵀ' 
+global.author = '@Asliguru' 
+global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
+global.fgyt = 'https://youtube.com/@Asliguru'
+global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
