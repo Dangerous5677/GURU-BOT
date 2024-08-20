@@ -1,22 +1,22 @@
 let handler = async m => m.reply(`
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GROUPS
+≡  *˻𝗦𝗛𝗔𝗡𝗜-𝗠𝗗-:994˼*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support
-https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM
 
 ▢ Group 2
-https://chat.whatsapp.com/LwLQab5mZVW6WWRbBPnDGC
+https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM
 
 ▢ Group 3
-https://chat.whatsapp.com/Jn9qVerYN6Q1L0vlVFe2XL
+https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM
 
 ─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+ https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM
 ─────────────
 ▢ *Owner Telegram*
  https://t.me/i_want_to_be_isekaied
