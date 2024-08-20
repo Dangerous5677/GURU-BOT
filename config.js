@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '*[THE SHANI 994 MD BOT]*'
+global.botname = '*˻𝗦𝗛𝗔𝗡𝗜-𝗠𝗗-:994˼*'
 global.premium = 'true'
 global.packname = 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑'
 global.author = '.'
