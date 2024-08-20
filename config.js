@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923455116994', '*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*', true],
-  ['923455116994', '*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*', true], 
+  ['923455116994', '*˻𝗦𝗛𝗔𝗡𝗜-𝗠𝗗-:994˼*', true],
+  ['923455116994', '*˻𝗦𝗛𝗔𝗡𝗜-𝗠𝗗-:994˼*', true], 
   [''] 
 ] //Number of owners
 
@@ -52,11 +52,11 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '*[THE SHANI 994 MD BOT]*'
 global.premium = 'true'
-global.packname = '✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮'
-global.author = '*_.. 𝐈𝐌 𝐁𝐨𝐓 🖥️𝐂𝐑𝐞𝐀𝐓𝐨𝐑..🂱_*'
-global.menuvid = 'https://i.imgur.com/E1uSBln.mp4'
+global.packname = 'ꜛ-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ₁ⷶ₁ᷡ₆ͥ₉͞₉₄ှ᪳᚛͟͞⏤💍-↑'
+global.author = '.'
+global.menuvid = 'https://telegra.ph/file/9a936ae2abc95e4bac05c.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.dygp = 'https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)... _*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _⏜✩ ˻𝗦𝗛𝗔𝗡𝗜-𝗠𝗗-:994˼ 𓃮•:)... _*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
